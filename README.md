@@ -1,2 +1,2 @@
 # calculadora
-Projeto calculadora em React 
+Projeto calculadora em React do BootCamp Orange Tech da DIO.
